@@ -1,4 +1,6 @@
 site_name: Estudos
+repo_url: https://github.com/LucasFDutra/estudos
+repo_name: LucasFDutra/estudos
 
 theme:
   name: material
